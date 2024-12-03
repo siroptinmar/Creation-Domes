@@ -40,7 +40,7 @@ Artistes et citoyen.ne.s [conscients des enjeux climatiques](#pour-quels-enjeux-
 
 ## ***Périmètres*** {#périmètres}
 
-Ces [trois installations](https://collectifornormes.fr/VillagedesArts/installations) présentes dans les dômes matérialisent les disciplines : [son](?tab=t.bnv690j3rgb7), [image](?tab=t.ild31w79lnu4) et [lumière](?tab=t.vnq461100247) ; omniprésentes dans chacun de nos projets. Pourquoi réaliser ces installations ? Au fur et à mesure de nos rencontres et échanges avec les publics, nous nous sommes aperçus que le travail réalisé autour de ce qui est appelé “arts numériques “ est très peu connu. Or, nous sommes artistes du spectacle vivant ***et*** des arts numériques. Nous nous sommes donc lancés le défi de vulgariser nos pratiques par l'intermédiaire de ces dômes, ces derniers matérialisant également notre corpus d’étude et donc, notre terrain.  
+Ces [trois installations](https://collectifornormes.fr/VillagedesArts/installations) présentes dans les dômes matérialisent les disciplines : [son](Dome-sonore), [image](Dome-kaleidoscope) et [lumière](Dome-lumineux) ; omniprésentes dans chacun de nos projets. Pourquoi réaliser ces installations ? Au fur et à mesure de nos rencontres et échanges avec les publics, nous nous sommes aperçus que le travail réalisé autour de ce qui est appelé “arts numériques “ est très peu connu. Or, nous sommes artistes du spectacle vivant ***et*** des arts numériques. Nous nous sommes donc lancés le défi de vulgariser nos pratiques par l'intermédiaire de ces dômes, ces derniers matérialisant également notre corpus d’étude et donc, notre terrain.  
 
 \#médiation \#partage \#public  
 
