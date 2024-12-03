@@ -1,8 +1,8 @@
-# **Dôme Sonore**  {#dôme-sonore}
+# **Dôme Sonore**
 
 [Quelle expérience utilisateur ?](#quelle-expérience-utilisateur)
 
-[Les Besoins (matériel et logiciels)](#les-besoins-matériel-et-logiciels))
+[Les Besoins (matériel et logiciels)](#les-besoins-matériel-et-logiciels)
 
 [La Faisabilité](#la-faisabilité)
 
@@ -15,6 +15,9 @@ Une fois à l’intérieur du dôme, le public découvre comme un grand piano fa
 Dans le dôme son, il y a deux dispositifs qui permettent d'aborder le corps comme conducteur de l'électricité. Un courant très faible est envoyé à deux bornes et le corps sert à la fois d'interrupteur et de déclencheur d'événements. Il déclenche des notes de synthé ou des boucles sonores. Le dispositif avec les bols d'eau mesure l'intensité du contact entre les personnes et la transforme en son.
 
 Les participants peuvent jouer simplement de la musique en se connectant à différents endroits du clavier en bois et générer des sons accordés tant dans leur tonalité que dans leur tempo. La présence du micro permet de découvrir le vocodeur, invention faite pendant la seconde guerre mondiale (voice codeur).
+
+![img](../img/sonore.jpeg)
+![img](../img/sonore%203.jpeg)
 
 ## ***Les Besoins*** (matériel et logiciels)
 

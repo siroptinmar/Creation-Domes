@@ -14,6 +14,9 @@ Cette installation permet d’initier le public aux jeux de lumière et à l'int
    
 Nous retrouvons le même dispositif technique que celui présent dans le dôme musical, le corps du public est conducteur de l'électricité. Un courant très faible est envoyé à deux bornes et le corps sert à la fois d'interrupteur et de déclencheur d'événements, il déclenche la lumière qu’il a touché comme indiqué (soit : bleu, rouge, jaune ou vert).
 
+![img](../img/lumineux.jpeg)
+![img](../img/lumineux%202.jpeg)
+
 ## ***Les Besoins***
 
 Pour délimiter les espaces d’interactivité des participants, nous avons utilisé des chutes de bois de formes rondes qui appartenaient à un de nos précédents projets artistiques. Sur chacun des ronds, est collé du ruban adhésif en aluminium (matière conductible)pour que le corps de l’utilisateur puisse interagir.  
@@ -33,7 +36,7 @@ Pour délimiter les espaces d’interactivité des participants, nous avons util
 
 ## ***La Faisabilité - Prérequis***  
 
-![img](img/Capture%20d’écran%202024-12-03%20à%2014.42.00.png)
+![img](../img/unity.jpeg)
 
 Le projet a été développé en C# sur [Unity3D](https://unity.com/fr), afin d'avoir l'affichage des scores et top score, sur un écran. 
 Le logiciel [CHATAIGNE](https://benjamin.kuperberg.fr/chataigne/fr) nous sert ensuite à connecter ensemble, la [playtron](https://shop.playtronica.com/products/playtron) en midi, les lumières en DMX, et le moteur de jeu dans Unity3D.
@@ -50,4 +53,4 @@ Copyright (c) 2017 Russell Savage - Dented Pixel
 
 Le coeur de connection est Chataigne **SimonSays.noisette**, il serait possible de faire évoluer vers une version embarqué sur Raspberry (donc en python), pour remplacer le Game Manager gérée par Unity.  
 
-![img](img/Capture%20d’écran%202024-12-03%20à%2014.56.49.png)
+![img](../img/chataigne.jpeg)
