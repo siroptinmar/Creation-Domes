@@ -33,7 +33,7 @@ Pour délimiter les espaces d’interactivité des participants, nous avons util
 
 ## ***La Faisabilité - Prérequis***  
 
-![img](Capture%20d’écran%202024-12-03%20à%2014.42.00.png)
+![img](img/Capture%20d’écran%202024-12-03%20à%2014.42.00.png)
 
 Le projet a été développé en C# sur [Unity3D](https://unity.com/fr), afin d'avoir l'affichage des scores et top score, sur un écran. 
 Le logiciel [CHATAIGNE](https://benjamin.kuperberg.fr/chataigne/fr) nous sert ensuite à connecter ensemble, la [playtron](https://shop.playtronica.com/products/playtron) en midi, les lumières en DMX, et le moteur de jeu dans Unity3D.
@@ -50,4 +50,4 @@ Copyright (c) 2017 Russell Savage - Dented Pixel
 
 Le coeur de connection est Chataigne **SimonSays.noisette**, il serait possible de faire évoluer vers une version embarqué sur Raspberry (donc en python), pour remplacer le Game Manager gérée par Unity.  
 
-![img](Capture%20d’écran%202024-12-03%20à%2014.56.49.png)
+![img](img/Capture%20d’écran%202024-12-03%20à%2014.56.49.png)
