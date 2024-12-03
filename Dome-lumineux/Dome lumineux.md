@@ -48,6 +48,6 @@ Copyright (c) 2017 Russell Savage - Dented Pixel
 
 ## ***La Réplicabilité***
 
-Le coeur de connection est Chataigne **SimonSays.noisette**, il serait possible de faire évoluer vers une version embarqué sur Raspberry (donc en python), pour remplacer le Game Manager gérée par Unity. 
+Le coeur de connection est Chataigne **SimonSays.noisette**, il serait possible de faire évoluer vers une version embarqué sur Raspberry (donc en python), pour remplacer le Game Manager gérée par Unity.  
 
 ![img](Capture%20d’écran%202024-12-03%20à%2014.56.49.png)
