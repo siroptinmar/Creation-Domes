@@ -1,8 +1,8 @@
 # **Dôme Sonore**  {#dôme-sonore}
 
-[Quelle expérience utilisateur ?](#quelle-expérience-utilisateur-?)
+[Quelle expérience utilisateur ?](#quelle-expérience-utilisateur)
 
-[Les Besoins (matériel et logiciels)](#les-besoins-\(matériel-et-logiciels\))
+[Les Besoins (matériel et logiciels)](#les-besoins-matériel-et-logiciels))
 
 [La Faisabilité](#la-faisabilité)
 

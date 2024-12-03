@@ -1,10 +1,6 @@
 # Essaimage et Sobriété Numériques
 
-## Vers une réplicabilité possible des installations numériques ?
-
----
-
-**Sommaire :**
+### Vers une réplicabilité possible des installations numériques ?
 
 [**Introduction**](#introduction)
 
@@ -62,7 +58,7 @@ En vous connectant à cet espace, vous pouvez également documenter vos résulta
 
 En prenant connaissance de plusieurs études, nous apprenons que le a un impact environnemental relativement important. « En 2020, il représentait 2,1% à 3,9% des émissions mondiales de gaz à effet de serre mondiales (Explications sur l'empreinte environnementale du numérique). Si on fait le parallèle avec le secteur des transports, l'empreinte du numérique se situe entre celles de tous les avions du monde (environ 2%) et de tous les camions du monde (environ 4%) (The Shift Project). Sa part d'émissions grossit très vite. L'ADEME estimait qu'elle pourrait doubler d’ici 2025 (estimation antérieure à la crise de Covid-19). Outre les émissions de Gaz à Effet de Serre dont on parle beaucoup, les impacts sont massifs sur la consommation de ressources (entre autres les métaux), d’eau, et d’énergie, lors de la phase de fabrication (Empreinte environnementale du numérique mondial). »[^1] 
 
-Par conséquent, en partageant nos méthodes de travail, nous souhaitons réduire l’énergie consommée par nos appareils. Nous prêtons une attention particulière ) ne pas acheter de devices non nécessaires, ainsi que le consommable. À partir des conseils partagés par F. Bordage, nous veillons à « *ne pas s’embarrasser de superflux*  », à « *mutualiser* » les appareils nécessaire à la création en recyclant et en reconditionnant et nous veillons à ce que nos créations « *vivent le plus longtemps possible* »[^2] en ne mettant pas à jour les logiciels, par exemple.
+Par conséquent, en partageant nos méthodes de travail, nous souhaitons réduire l’énergie consommée par nos appareils. Nous prêtons une attention particulière à ne pas acheter de devices non nécessaires, ainsi que le consommable. À partir des conseils partagés par F. Bordage, nous veillons à « *ne pas s’embarrasser de superflux*  », à « *mutualiser* » les appareils nécessaire à la création en recyclant et en reconditionnant et nous veillons à ce que nos créations « *vivent le plus longtemps possible* »[^2] en ne mettant pas à jour les logiciels, par exemple.
 
 \#essaimage \#sobrietenumerique 
 
